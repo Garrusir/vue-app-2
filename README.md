@@ -2,6 +2,7 @@
 Лабораторная работа на Vue.js
 
 Запуск
-# npm i
+# Getting started
+    npm i
+    npm run start
 
-# npm run start
